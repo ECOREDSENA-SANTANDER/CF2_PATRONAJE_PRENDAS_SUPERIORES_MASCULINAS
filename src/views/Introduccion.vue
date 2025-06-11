@@ -8,7 +8,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    .row.justify-content-center.align-items-center           
+    .row.justify-content-center.align-items-center(data-aos="fade")           
       .col-lg-12
         figure
           .video
