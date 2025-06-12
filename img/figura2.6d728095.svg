@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="336" viewBox="0 0 610 336">
+  <g id="Grupo_1114375" data-name="Grupo 1114375" transform="translate(-810.051 -905.397)">
+    <rect id="Rectángulo_407450" data-name="Rectángulo 407450" width="610" height="336" transform="translate(810.051 905.397)" fill="#ebefeb"/>
+    <g id="Grupo_1114054" data-name="Grupo 1114054" transform="translate(46 -430.603)">
+      <g id="Grupo_1114053" data-name="Grupo 1114053">
+        <g id="Rectángulo_407444" data-name="Rectángulo 407444" transform="translate(902.051 1462)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Rectángulo_407445" data-name="Rectángulo 407445" transform="translate(985.051 1462)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Rectángulo_407446" data-name="Rectángulo 407446" transform="translate(1068.051 1462)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Rectángulo_407449" data-name="Rectángulo 407449" transform="translate(1068.051 1545)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Rectángulo_407448" data-name="Rectángulo 407448" transform="translate(1068.051 1379)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Rectángulo_407447" data-name="Rectángulo 407447" transform="translate(1151.051 1462)" fill="none" stroke="#000" stroke-width="2">
+          <rect width="85" height="85" stroke="none"/>
+          <rect x="1" y="1" width="83" height="83" fill="none"/>
+        </g>
+        <g id="Trazado_898645" data-name="Trazado 898645" transform="translate(902.051 1447)" fill="none">
+          <path d="M13,0H72L85,17H0Z" stroke="none"/>
+          <path d="M 13.98834228515625 2 L 4.047164916992188 15 L 80.95283508300781 15 L 71.01165771484375 2 L 13.98834228515625 2 M 13 0 L 72 0 L 85 17 L 0 17 L 13 0 Z" stroke="none" fill="#000"/>
+        </g>
+        <g id="Trazado_898646" data-name="Trazado 898646" transform="translate(985.051 1447)" fill="none">
+          <path d="M13,0H72L85,17H0Z" stroke="none"/>
+          <path d="M 13.98834228515625 2 L 4.047164916992188 15 L 80.95283508300781 15 L 71.01165771484375 2 L 13.98834228515625 2 M 13 0 L 72 0 L 85 17 L 0 17 L 13 0 Z" stroke="none" fill="#000"/>
+        </g>
+        <g id="Trazado_898648" data-name="Trazado 898648" transform="translate(1151.051 1545)" fill="none">
+          <path d="M13,17H72L85,0H0Z" stroke="none"/>
+          <path d="M 71.01165771484375 15 L 80.95283508300781 2 L 4.047165393829346 2 L 13.98834228515625 15 L 71.01165771484375 15 M 72 17 L 13 17 L 0 0 L 85 0 L 72 17 Z" stroke="none" fill="#000"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
