@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="610" height="336" viewBox="0 0 610 336">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_407442" data-name="Rectángulo 407442" width="190" height="189.707" fill="none" stroke="#000" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1114374" data-name="Grupo 1114374" transform="translate(-180.051 -905.397)">
+    <rect id="Rectángulo_407443" data-name="Rectángulo 407443" width="610" height="336" transform="translate(180.051 905.397)" fill="#f7eded"/>
+    <g id="Grupo_1114052" data-name="Grupo 1114052" transform="translate(-69.949 -429.603)">
+      <g id="Grupo_1114050" data-name="Grupo 1114050">
+        <g id="Grupo_1114047" data-name="Grupo 1114047" transform="translate(285 1414)" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_407440" data-name="Rectángulo 407440" width="148.679" height="148.679" transform="translate(1.701 39.343)" fill="none" stroke="#000" stroke-width="2"/>
+          <path id="Trazado_898635" data-name="Trazado 898635" d="M0,0H148.679V0Z" transform="translate(39.613 1.71)" fill="none" stroke="#000" stroke-width="2"/>
+          <line id="Línea_1397" data-name="Línea 1397" y1="37.693" x2="37.947" transform="translate(1.046 1.053)" fill="none" stroke="#000" stroke-width="2"/>
+          <line id="Línea_1398" data-name="Línea 1398" y1="37.912" x2="37.913" transform="translate(150.68 1.131)" fill="none" stroke="#000" stroke-width="2"/>
+          <line id="Línea_1399" data-name="Línea 1399" y1="37.915" x2="37.916" transform="translate(151.034 150.742)" fill="none" stroke="#000" stroke-width="2"/>
+          <line id="Línea_1400" data-name="Línea 1400" y1="37.91" x2="37.912" transform="translate(1.401 150.411)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="6"/>
+        </g>
+        <path id="Trazado_898636" data-name="Trazado 898636" d="M-8330.219-10043.086v-150.43" transform="translate(8654.051 11608)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="6"/>
+        <path id="Trazado_898637" data-name="Trazado 898637" d="M-8330.219-10043.086v-150.43" transform="translate(10517.348 -6765.305) rotate(-90)" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="6"/>
+      </g>
+    </g>
+    <g id="Grupo_1114051" data-name="Grupo 1114051" transform="translate(-69.949 -429.603)">
+      <g id="Grupo_1114049" data-name="Grupo 1114049">
+        <text id="y" transform="translate(640.051 1379)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-4.663" y="17">y</tspan></text>
+        <text id="x" transform="translate(797.051 1535)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-4.632" y="17">x</tspan></text>
+        <text id="z" transform="translate(566.051 1596)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-4.632" y="17">z</tspan></text>
+        <g id="Grupo_1114048" data-name="Grupo 1114048" transform="translate(600 1414)">
+          <g id="Grupo_1114047-2" data-name="Grupo 1114047" clip-path="url(#clip-path)">
+            <rect id="Rectángulo_407440-2" data-name="Rectángulo 407440" width="148.679" height="148.679" transform="translate(1.701 39.343)" fill="none" stroke="#000" stroke-width="2"/>
+            <rect id="Rectángulo_407441" data-name="Rectángulo 407441" width="148.679" height="148.399" transform="translate(39.613 1.71)" fill="none" stroke="#000" stroke-width="2"/>
+            <line id="Línea_1397-2" data-name="Línea 1397" y1="37.693" x2="37.947" transform="translate(1.046 1.053)" fill="none" stroke="#000" stroke-width="2"/>
+            <line id="Línea_1398-2" data-name="Línea 1398" y1="37.912" x2="37.913" transform="translate(150.68 1.131)" fill="none" stroke="#000" stroke-width="2"/>
+            <line id="Línea_1399-2" data-name="Línea 1399" y1="37.915" x2="37.916" transform="translate(151.034 150.742)" fill="none" stroke="#000" stroke-width="2"/>
+            <line id="Línea_1400-2" data-name="Línea 1400" y1="37.91" x2="37.912" transform="translate(1.401 150.411)" fill="none" stroke="#000" stroke-width="2"/>
+          </g>
+        </g>
+        <path id="Trazado_898638" data-name="Trazado 898638" d="M-8330.219-10156.391v-37.125" transform="translate(8970.051 11572.82)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Trazado_898641" data-name="Trazado 898641" d="M-8330.219-10156.391v-37.125" transform="translate(10980.785 -6766.352) rotate(-90)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Trazado_898642" data-name="Trazado 898642" d="M-8330.219-10156.391v-37.125" transform="translate(1893.424 -11470.266) rotate(-135)" fill="none" stroke="#000" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

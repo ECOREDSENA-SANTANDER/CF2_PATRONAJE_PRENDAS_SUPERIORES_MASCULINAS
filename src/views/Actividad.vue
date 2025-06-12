@@ -204,116 +204,170 @@ export default {
             {
               id: '1',
               texto: 'Definir únicamente los acabados decorativos.',
+              esCorrecta: false,
+            },
+            {
+              id: '2',
+              texto: 'Ajustar la prenda directamente sobre la tela final.',
+              esCorrecta: false,
+            },
+            {
+              id: '3',
+              texto:
+                'Establecer la estructura inicial desde la cual se derivan las transformaciones. ',
               esCorrecta: true,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: '4',
+              texto: 'Reemplazar el proceso de diseño con moldes prehechos.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de estructura corporal masculina.',
+            '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
         },
         {
           id: 7,
-          texto:
-            'En la silueta de triángulo, los hombros son más anchos que las caderas.',
+          texto: '¿Qué permite la transformación del patrón base?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: '1',
+              texto: 'Eliminar procesos de corte y confección.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: '2',
+              texto: 'Aplicar la misma forma a todas las prendas.',
+              esCorrecta: false,
+            },
+            {
+              id: '3',
+              texto:
+                'Adaptar el diseño original para nuevas siluetas y estilos. ',
               esCorrecta: true,
+            },
+            {
+              id: '4',
+              texto: 'Diseñar exclusivamente prendas femeninas.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de estructura corporal masculina.',
+            '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
         },
         {
           id: 8,
           texto:
-            'Los endomorfos requieren patronajes que favorezcan la amplitud de hombros para equilibrar su figura.',
+            '¿Para qué sirven las líneas auxiliares en el trazo del patrón?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: '1',
+              texto: 'Representar únicamente elementos estéticos.',
+              esCorrecta: false,
+            },
+            {
+              id: '2',
+              texto: 'Delimitar márgenes de costura sin función estructural.',
+              esCorrecta: false,
+            },
+            {
+              id: '3',
+              texto:
+                'Guiar con precisión el desarrollo del patrón y sus componentes. ',
               esCorrecta: true,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: '4',
+              texto: 'Identificar los colores de la tela.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de estructura corporal masculina.',
+            '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
         },
         {
           id: 9,
           texto:
-            'El ectomorfo necesita prendas superiores muy ajustadas para destacar su estructura corporal delgada.',
+            '¿Qué se debe considerar en el trazo de la manga para una camisa clásica?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: '1',
+              texto: 'Que la manga siempre sea recta y sin forma.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: '2',
+              texto: 'Que el largo supere la línea de cadera.',
+              esCorrecta: false,
+            },
+            {
+              id: '3',
+              texto:
+                'Que el diseño se adapte a la movilidad y al estilo definido. ',
               esCorrecta: true,
+            },
+            {
+              id: '4',
+              texto: 'Que no tenga ninguna relación con la sisa.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de estructura corporal masculina.',
+            '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
         },
         {
           id: 10,
           texto:
-            'La identificación del somatotipo es irrelevante para la selección de bases textiles en moda masculina casual.',
+            '¿Cuál es el objetivo principal de la prueba en tela en patronaje?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
-              id: 'a',
-              texto: 'Verdadero',
+              id: '1',
+              texto: 'Medir únicamente la resistencia de las costuras.',
               esCorrecta: false,
             },
             {
-              id: 'b',
-              texto: 'Falso',
+              id: '2',
+              texto:
+                'Asegurar la precisión de medidas, proporciones y comodidad. ',
               esCorrecta: true,
+            },
+            {
+              id: '3',
+              texto: 'Confirmar el color y la textura de la prenda.',
+              esCorrecta: false,
+            },
+            {
+              id: '4',
+              texto: 'Sustituir el patrón definitivo por uno provisional.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de estructura corporal masculina.',
+            '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
         },
       ],
       mensaje_final_aprobado:
-        '¡Felicidades! Ha demostrado un gran conocimiento sobre La “Estructura Corporal Masculina”. ¡Continúe aprendiendo y explorando este apasionante tema!',
+        '¡Excelente!  ha seleccionado la respuesta correcta, fruto de un buen proceso de comprensión en patronaje industrial masculino.',
       mensaje_final_reprobado:
-        'No ha superado la actividad. Le recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica.',
+        'Recomendamos volver a revisar el componente formativo e intentar nuevamente la actividad didáctica',
     },
   }),
 }
