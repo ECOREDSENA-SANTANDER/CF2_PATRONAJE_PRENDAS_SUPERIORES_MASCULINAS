@@ -410,7 +410,7 @@
       .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/Tema3/img09.png', alt='')  
 
-
+    
 
 
 

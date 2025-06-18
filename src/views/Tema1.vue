@@ -35,7 +35,7 @@
             h3.bg2.py-2.w-card-text ¿Para qué sirve el patronaje?
 
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-5.col-md-6
+        .col-lg-5.col-md-6.col-9
           img.w-card-icon.mb-3(src="@/assets/curso/Tema1/img02.png")
         .col-lg-7.bg2.p-4
           br

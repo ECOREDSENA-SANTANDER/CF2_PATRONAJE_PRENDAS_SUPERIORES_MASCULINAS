@@ -69,12 +69,42 @@ figcaption
 .bg5
   background-color: #ECF9FF
   border-radius: 20px
+  
+.bgazul
+  background-color: #ECF9FF
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+
+.tabs-c.color-primario .tabs-c__tab--active 
+  border-bottom-color: #5b1e1e !important
+
+.tabs-c.color-primario .tabs-c__tab--active:before 
+  border-top-color: #5b1e1e
+
+.relleno
+  background-color: #EBEFEB
+.tabs-c__header 
+  margin-bottom: 0
+.tabs-c__tab--active 
+  font-weight: bold
+
 .bg6
   background-color: #FFF0DC
+.bg66
+  background-color: #FFF0DC
+  border-radius: 20px
 .bg7
   background-color: #FFB751
 .bg8 
   background-color: #E8CCCC
+  border-radius: 20px
+.bg9
+  background-color: #D5DFD6
   border-radius: 20px
 .tabla-a.color-acento-botones thead 
   border-color: #8F0000
@@ -140,9 +170,10 @@ figcaption
 
 .h1, .titulo-principal__numero span, .h2, .h3, .h4, .h5, .h6 
   color: #fff
-  background-color: #5B1E1E
+
 .acordion__accion__btn--b 
   border: #5B1E1E
+  background-color: #5B1E1E
 
 table th, table td 
   padding: 12px 10px
@@ -181,3 +212,37 @@ table th, table td
 
 .imgavatar
   margin-top: -2rem !important
+
+.fondoslyder
+  background-image: url('../assets/curso/Tema2/fondo01.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+
+.fondoblanco
+  background-image: url('../assets/curso/Tema2/fondoblanco.png')
+  background-position: center
+  background-size: 100% 100%
+  background-repeat: no-repeat
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+  width: 50px
+  height: 50px
+  background-color: #5B1E1E
+  border-radius: 50%
+  background-image: url('../assets/curso/Tema2/flecha.svg')
+  background-repeat: no-repeat
+  background-size: 16px 24px
+  background-position: center
+  border: 1px solid #5B1E1E
+.barra-avance__boton--regresar span 
+    color: #fff !important
+.slyder-a__bullets__item 
+  width: 10px
+  height: 10px
+  background-color: #AABEAC
+  margin: 0 5px
+.slyder-a__bullets__item--active 
+  background-color: #2f5e34 !important
+  border-color: #2f5e34
+  opacity: 1

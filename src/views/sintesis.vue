@@ -9,7 +9,7 @@
         figure
           img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
       .col-auto
-        a.anexo.mb-5(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/bullets/icono-pdf.svg")
           .anexo__texto

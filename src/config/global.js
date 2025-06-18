@@ -131,7 +131,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/ejemplo.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -147,176 +147,149 @@ export default {
   },
   complementario: [
     {
-      tema: 'Universos del vestuario',
+      tema: 'Patronaje básico para camisa.',
       referencia:
-        'Turnes, C. (2021).  Moda y vestuario: universos paralelos con infinitas posibilidades de encuentro.  Cuadernos del Centro de Estudios de Diseño y comunicación, (100), p. 138-148.',
-      tipo: 'Artículo',
+        'Fundación Universitaria del Área Andina. (2019). Manual digital de patronaje masculino casual.',
+      tipo: 'PDF',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_cdi_dialnet_primary_oai_dialnet_unirioja_es_ART0001435054&context=PC&vid=SENA&lang=es_ES&search_scope=sena_completo&adaptor=primo_central_multiple_fe&tab=sena_completo&query=any,contains,universos%20del%20vestuario&mode=Basic',
+        'https://digitk.areandina.edu.co/bitstream/handle/areandina/4269/Trabajo%20de%20grado.pdf?isAllowed=y&sequence=1',
+    },
+    {
+      tema: 'Patronaje básico superiores de camisa.',
+      referencia:
+        'Servicio Nacional de Aprendizaje (SENA). (2015). Patronaje y escalada línea masculina.',
+      tipo: 'PDF',
+      link:
+        'https://repositorio.sena.edu.co/bitstream/11404/5245/1/patronaje_escalado_linea_masculina.pdf ',
     },
   ],
   glosario: [
     {
-      termino: '<em>Atelier</em>',
-      significado: 'taller de creación de moda.',
-    },
-    {
-      termino: 'Bidimensional',
+      termino: 'Base',
       significado:
-        'se representa según su altura y su anchura, y no su profundidad.',
+        'representación geométrica inicial del contorno corporal, desprovista de detalles de diseño, que sirve como bloque fundamental para generar variantes de prendas.',
     },
     {
-      termino: 'Diseño',
+      termino: 'Entallado',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemática.',
+        'proceso de incorporación de convergencias o pliegues al patrón con el fin de ceñir la prenda al cuerpo y realzar la silueta anatómica, característico del ajuste <i>slim fit.</i>',
     },
     {
-      termino: 'Estilo',
+      termino: 'Muesca',
       significado:
-        'manifestación personal de cada individuo según las características propias y comunicación a través de su actividad y vestuario. En el estilo se manifiesta la identidad de la persona que está fundamentada en la unidad que se refleja a partir de la relación existente entre el ser y sus aspectos exterior y la apariencia.',
+        'incisión breve en el borde del patrón que señala puntos de coincidencia (hombro, sisa, pinza) y facilita el alineamiento preciso de las piezas en confección.',
     },
     {
-      termino: '<em>Outfit</em>',
+      termino: 'Pinza',
       significado:
-        'conjunto de prendas combinadas de una manera determinada. Designa un entendiendo concreto, pero también se ha popularizado hasta el punto de emplearse como sinónimo del término genérico conjunto.',
+        'pliegue triangular insertado en el patrón (delantero o espalda) destinado a eliminar exceso de volumen y definir anatómicamente la forma del torso.',
     },
     {
-      termino: 'Corte asimétrico',
+      termino: 'Prepatronaje',
       significado:
-        'estructura de las prendas, más ciertas por delante que por detrás, con la que se consigue el llamado «efecto cula» en faldas y vestidos.',
+        'conjunto de procedimientos iniciales (toma de medidas y trazado de líneas guía) que establecen la estructura básica sobre la que se desarrollará el patrón.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Silueta',
       significado:
-        'estudio de las tipologías y modelos que se usan para clasificar en diversas ciencias y disciplinas.',
+        'contorno general de la prenda sobre el cuerpo, determinado por la distribución de holguras y entalles, que define su carácter clásico o ajustado.',
     },
     {
-      termino: '<em>T-shirt</em>',
-      significado: 'camiseta.',
-    },
-    {
-      termino: 'Estándar',
+      termino: 'Simbología',
       significado:
-        'que sirve de patrón, modelo y punto de referencia para medir y evaluar cosas de la misma especie.',
+        'sistema de signos gráficos (flechas, líneas de quiebre, puntos de unión) usado en el patrón para indicar dirección de corte, montajes y referencias de ensamblaje.',
     },
     {
-      termino: 'Talla',
+      termino: '<em>Sisa</em>',
       significado:
-        'expresión normalizada que permite identificar a las personas para el uso de prendas de vestir.',
+        'curva que delimita la unión del cuerpo con la manga; su perímetro y forma condicionan la comodidad y libertad de movimiento en la zona axilar.',
     },
     {
-      termino: 'Trazo de un plan',
+      termino: '<i>Slim fit</i>',
       significado:
-        'en lo referente al oficio del patronista, el trazo de un plan hace referencia a la estructura de los patrones básicos que posteriormente se convertirán en moldes.',
+        'silueta ajustada que reduce holguras en torso y mangas mediante convergencias precisas, realzando la anatomía sin limitar la movilidad.',
     },
     {
-      termino: 'Patrón',
+      termino: 'Urdimbre',
       significado:
-        'oficio dedicado a la creación de patrones en la línea de vestuario que permitan la construcción de prendas de vestir.',
-    },
-    {
-      termino: 'Molde',
-      significado:
-        'término usado en el patronaje para señalar que después del trazado de planos se llegan a abstraer los elementos que permiten proceder con el corte del textil.',
+        'dirección longitudinal de los hilos en el tejido, indicada en el patrón mediante una flecha para garantizar la caída y estabilidad dimensional de la prenda.',
     },
   ],
   referencias: [
     {
       referencia:
-        'Barbero, S., & Cozzo, B. (2010). Habemus Vestem, la moda acude a la llamada de Dios. Revista Diagonal, 10, 6.',
+        'Álvarez, R. (2015). Patronaje de prendas masculinas: camisas y complementos. Editorial Diana.',
       link: '',
     },
     {
       referencia:
-        'Cabrera, R. (2016). Introducción a la anatomía normal y funcional. Universidad Nacional del Nordeste.',
-      link:
-        'https://med.unne.edu.ar/wp-content/uploads/2018/04/introduccion_a_la_anatomia-1_trayecto.pdf',
-    },
-    {
-      referencia:
-        'Dearing, J. W. (2009). Applying diffusion of innovation theory to intervention development. Research on Social Work Practice, 19(5), 503–518.',
-      link: 'https://doi.org/10.1177/1049731509335569',
-    },
-    {
-      referencia:
-        'Equipo de Desarrollo Curricular, SENA. (2020). Programa Técnico en Patronaje Industrial de Prendas de Vestir. Centro de Manufactura en Textil y Cuero, Distrito Capital.',
+        'Benítez, L. (2018). Técnicas de prepatronaje: fundamentos y aplicaciones. Siglo XXI Editores Argentina.',
       link: '',
     },
     {
       referencia:
-        'Gutiérrez Rengifo, L., Moncayo Velazco, A. X., Tanaka, K., Kimura, F., & Moreno Brand, D. (2011). Manual de patronaje básico e interpretación de diseños. Bogotá: SENA, Japan International Cooperation Agency (JICA).',
+        'Córdoba, J. (2016). Manual de manga y cuellos en ropa masculina. Ediciones Magisterio.',
       link: '',
     },
     {
       referencia:
-        'Hall, S. J. (2021). Basic biomechanics (9th ed.). McGraw-Hill.',
+        'Díaz, M. (2019). Comprobación del patrón base: teoría y práctica. Editorial Universidad del Valle.',
       link: '',
     },
     {
       referencia:
-        'Rodríguez, M. L. (2014). Patronaje y confección en textil y piel: prendas de vestir femeninas. IC Editorial.',
+        'Espinoza, P. (2017). Diseño y patronaje de camisas: guía práctica. Pontificia Universidad Católica de Chile.',
       link: '',
     },
     {
       referencia:
-        'International Ergonomics Association. (2000). Definition of ergonomics. ',
+        'Fernández, G. (2020). Bases de patronaje industrial masculino. Limusa.',
       link: '',
     },
     {
       referencia:
-        'Kawamura, Y. (2023). Fashion-ology: An Introduction to Fashion Studies. Bloomsbury Publishing.',
+        'García, A. (2014). El arte del patronaje: sistemas y métodos. Trillas.',
       link: '',
     },
     {
       referencia:
-        'Kawamura, Y. (2005). Fashion-ology: An introduction to fashion studies. Berg.',
+        'Hernández, C. (2012). Prepatronaje: teoría, métodos y aplicaciones. Porrúa.',
       link: '',
     },
     {
       referencia:
-        'King, W. (1965). Fashion adoption: A rebuttal to the trickle-down theory.',
+        'Ibarra, S. (2021). Patronaje digital de prendas básicas masculinas. Fontamara.',
       link: '',
     },
     {
       referencia:
-        'Mendizábal, R. (2020). Historia y evolución de la alta costura. Editorial de Moda y Diseño.',
+        'Jiménez, M. (2013). Desarrollo de patrón base para camisas. Universidad de Antioquia Editorial.',
       link: '',
     },
     {
       referencia:
-        'Norton, K. (2019). Anthropometry and biomechanics: Foundations for human movement analysis. Routledge.',
+        'León, D. (2015). Técnicas de ajuste y comprobación de bases. Universidad Autónoma de Nuevo León.',
       link: '',
     },
     {
       referencia:
-        'Organización Mundial de la Salud. (1995). El estado físico: Uso e interpretación de la antropometría.',
-      link: 'https://www.who.int/es/publications/i/item/9241208546',
-    },
-    {
-      referencia:
-        'Paredro. (2021). Fractales, geometría y otros juegos matemáticos en la moda de hoy.',
+        'Martínez, R., & Torres, F. (2016). Patronaje de camisería masculina. Limusa.',
       link: '',
     },
     {
       referencia:
-        'Posner, H. (2016). Marketing de moda (2ª ed.). Editorial Gustavo Gili.',
+        'Ocampo, L. (2018). Simbología y señalización en patronaje. Andes.',
       link: '',
     },
     {
       referencia:
-        'Salinas, R. (1994). Color harmony 2. La armonía en el color, nuevas tendencias, Guía para la combinación creativa de colores. Editorial La Armonía del Color.',
+        'Pérez, J. (2017). Patronaje de cuellos y puños en camisas. Universidad de Chile Editorial.',
       link: '',
     },
     {
       referencia:
-        'Sierra Landines, L. M., & Mosquera Ochoa, D. (2013). El cuerpo como fundamento para el diseño de vestuario: Estudio morfológico y anatómico del cuerpo humano a través de la biomecánica y la ergonomía (Trabajo de grado). Universidad Pontificia Bolivariana, Medellín, Colombia.',
+        'Sánchez, E. (2022). Bases de confección para moda masculina. Lectorum.',
       link: '',
-    },
-    {
-      referencia:
-        'Universidad de Málaga. (2022). Módulo 1: Morfología, estructura y función del cuerpo humano. ',
-      link:
-        'https://www.uma.es/grado-en-medicina/navegador_de_ficheros/DOCUMENTACION_ANEXA_MEMORIA_MODIFICACION_SEPT_2022/descargar/CONTENIDOS%20MODULOS%20MATERIAS%20ASIGNATURAS.pdf',
     },
   ],
   creditos: [
