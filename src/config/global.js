@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Patronaje de bases superiores masculinas',
     Description:
-      'Durante el proceso formativo, se orienta al aprendiz en la interpretación y aplicación de técnicas de patronaje masculino para prendas superiores, especialmente camisas, apoyándose en referentes como el manual del SENA e incorporando convenciones gráficas propias del diseño textil. El recorrido inicia con los fundamentos del prepatronaje, siguiendo con la construcción de moldes base y el trazado de modelos en siluetas clásicas y slim fit.',
+      'Durante el proceso formativo, se orienta al aprendiz en la interpretación y aplicación de técnicas de patronaje masculino para prendas superiores, especialmente camisas, apoyándose en referentes como el manual del SENA e incorporando convenciones gráficas propias del diseño textil. El recorrido inicia con los fundamentos del prepatronaje, siguiendo con la construcción de moldes base y el trazado de modelos en siluetas clásicas y <i>slim fit.</i>',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -200,7 +200,7 @@ export default {
         'sistema de signos gráficos (flechas, líneas de quiebre, puntos de unión) usado en el patrón para indicar dirección de corte, montajes y referencias de ensamblaje.',
     },
     {
-      termino: '<em>Sisa</em>',
+      termino: 'Sisa',
       significado:
         'curva que delimita la unión del cuerpo con la manga; su perímetro y forma condicionan la comodidad y libertad de movimiento en la zona axilar.',
     },

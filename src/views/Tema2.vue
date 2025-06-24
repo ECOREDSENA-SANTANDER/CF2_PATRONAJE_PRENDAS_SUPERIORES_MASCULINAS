@@ -74,11 +74,11 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-play
-                    |Cuello posterior masculino = P/20 + 2.5
+                    |Cuello posterior masculino = P / 20 + 2.5
             .row
               .col-md-12.mb-4.mb-md-0
                 h5 f)	Manejo del papel para trazado
-                p Se recomienda utilizar papel trazo o papel manifold, el cual posee dos caras:
+                p Se recomienda utilizar papel trazo o papel #[em manifold], el cual posee dos caras:
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-play
@@ -390,7 +390,7 @@
 
                     li.d-flex
                       i.fas.fa-chevron-circle-right
-                      p.mb-0 Manga sastre/formal: (sisa delantera + sisa posterior) ÷ 3
+                      p.mb-0 Manga sastre / formal: (sisa delantera + sisa posterior) ÷ 3
                   p Sin embargo, para camisas clásicas y #[em slim fit], se aplican fórmulas ajustadas que priorizan la comodidad y la flexibilidad:
                   ul.lista-ul--color
                     li.d-flex

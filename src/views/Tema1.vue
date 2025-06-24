@@ -21,7 +21,7 @@
             span Plano en 3D
           figure
             img(src='@/assets/curso/Tema1/figura1.svg', alt='Cubo en dos enfoques. El primero indica su forma tridimensional usando líneas continuas y segmentadas. El segundo lo ubica dentro de un sistema de coordenadas con tres ejes: X (horizontal), Y (vertical) y Z (profundidad), facilitando su comprensión espacial.')
-        .col-lg-6.col-md-8  
+        .col-lg-6.col-md-8.mb-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 2.
             span Plano en 2D
@@ -89,7 +89,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/Tema1/img01.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 Está orientado a la producción en serie de prendas, y se basa en la traducción de la figura humana tridimensional (3D) a planos bidimensionales (2D), utilizando papel o software especializado como Audaces 360, Optitex, Gerber o Lectra. La metodología estructurada permite la creación de patrones básicos y sus transformaciones con alta eficiencia y precisión.
+          p.mb-0 Está orientado a la producción en serie de prendas, y se basa en la traducción de la figura humana tridimensional (3D) a planos bidimensionales (2D), utilizando papel o #[em software] especializado como Audaces 360, Optitex, Gerber o Lectra. La metodología estructurada permite la creación de patrones básicos y sus transformaciones con alta eficiencia y precisión.
           br
           br
           p Se fundamenta en tablas de medidas estandarizadas, definidas por región, tipo de prenda y público objetivo; a partir de una talla base, se aplican incrementos definidos para generar otras tallas mediante un proceso de escalado, sin necesidad de construir nuevos moldes, lo que optimiza tiempo y recursos en la producción masiva.
@@ -242,25 +242,33 @@
           .col-lg-10.mb-4.mb-md-0
             p En el desarrollo de patrones, el uso correcto de convenciones gráficas es esencial para la interpretación técnica, el trazado y el corte de piezas. Estos símbolos y signos permiten comprender los planos sin necesidad de explicaciones extensas, favoreciendo la comunicación visual entre diseñadores, patronistas y confeccionistas.
             p Cada pieza del patrón debe estar claramente rotulada con la siguiente información:
-          ul.lista-ul--color.bg3.p-3.text-center
-              li
+          .bg3.p-3  
+            .row.justify-content-center.align-items-center
+              .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
                 | Nombre de la pieza
+              .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
                 | Referencia o código
+              .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
                 | Talla
+              .col-lg-3.d-flex.mb-3
                 i.fas.fa-chevron-circle-right.px-4
                 | Nombre del patronista
+              .col-lg-4.d-flex.mb-3
                 i.fas.fa-chevron-circle-right.px-4
                 | Símbolos de corte (hilo, doblez, dirección)
-              li
+              .col-lg-4.d-flex.mb-3
                 i.fas.fa-chevron-circle-right.px-4
                 | Cantidad de veces que se debe cortar
+              .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
                 | Piquetes de confección
+              .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
                 | Líneas de aplome o ajuste
+          .py-2
           p.text-center Adicionalmente, pueden incluirse detalles como instrucciones de estampado, especificaciones de color o material, acabados especiales, y ubicación de componentes como bolsillos o cierres.
 
         .row.justify-content-center(titulo="Trazado y escalas")
@@ -270,16 +278,17 @@
           .col-lg-10.mb-4.mb-md-0
             p El trazado técnico parte del uso de formas geométricas básicas (horizontal, vertical, perpendicular, diagonal, curva, vértice, ángulo recto, etc.), iniciando siempre desde un rectángulo base que se construye según el contorno y largo del cuerpo. Esta estructura sirve como soporte para el desarrollo de las demás líneas del patrón.
             p Para representar los patrones, se emplean escalas gráficas que permiten trabajar en tamaño real o reducido. Las más utilizadas son:
-          .row.justify-content-end
-            .col-lg-11
-              ul.lista-ul--color.text-center.bg3.p-3
-                li
-                  i.fas.fa-chevron-circle-right.px-4
-                  | Escala 1:1. Tamaño real
-                  i.fas.fa-chevron-circle-right.px-4
-                  | Escala 1:2. Mitad del tamaño
-                  i.fas.fa-chevron-circle-right.px-4
-                  | Escala 1:4. Cuarta parte del tamaño        
+          .bg3.p-3  
+            .row.justify-content-center.align-items-center
+              .col-lg-3.d-flex.mb-3 
+                i.fas.fa-chevron-circle-right.px-4
+                | Escala 1:1. Tamaño real
+              .col-lg-3.d-flex.mb-3 
+                i.fas.fa-chevron-circle-right.px-4
+                | Escala 1:2. Mitad del tamaño
+              .col-lg-4.d-flex.mb-3   
+                i.fas.fa-chevron-circle-right.px-4
+                | Escala 1:4. Cuarta parte del tamaño        
               p.text-center El trabajo en escala reducida es especialmente útil para construir y analizar patrones base de forma más práctica y económica.
 
 

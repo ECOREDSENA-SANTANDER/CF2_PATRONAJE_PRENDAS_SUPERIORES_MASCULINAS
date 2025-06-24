@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Moda y sistema moda
+      h1 Prueba y evaluación
     
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -321,7 +321,11 @@
         .row.justify-content-center.align-items-center
           .col-lg-8.mt-4.mb-2
             p Estas correcciones deben aplicarse directamente sobre el patrón, trazando nuevamente las curvas y ajustando las piezas involucradas. Si los cambios son significativos, se recomienda generar una nueva versión del patrón y repetir la prueba de ajuste.
-
+    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
+      .col-sm-12.col-lg-7
+        .d-flex.align-items-center.mt-4
+          img.w-card-icon(src="@/assets/curso/Tema1/ico1.svg")
+          h3.bg2.py-2.w-card-text Lista de abreviaturas y simbologías
     .row.justify-content-center.align-items-center.mb-5.bg1
         .col-lg-9
           .bg1.mb-0.p-4.izq
@@ -334,7 +338,7 @@
       .col-lg-6.mb-4
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 9.
-          span Registro de evidencias
+          span Símbolos y abreviaturas
         .tabla-a.color-acento-botones(alt='Abreviaturas y símbolos usados en patronaje. Incluye códigos como CF (centro frente), CA (centro atrás), piquetes delanteros, espalda y hombro, así como símbolos gráficos para identificar piquetes, costuras de estabilización (stay-stitch), líneas de frunce y versiones del patrón. Cada símbolo está acompañado de su significado para guiar la interpretación técnica.') 
           table
             thead

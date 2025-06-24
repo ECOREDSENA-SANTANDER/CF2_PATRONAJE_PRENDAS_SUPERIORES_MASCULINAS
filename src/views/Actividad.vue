@@ -78,7 +78,7 @@ export default {
             },
             {
               id: '3',
-              texto: 'Requiere siempre software especializado.',
+              texto: 'Requiere siempre <i>software</i> especializado.',
               esCorrecta: false,
             },
             {
@@ -169,7 +169,7 @@ export default {
             {
               id: '1',
               texto:
-                'El industrial usa maniquíes mientras el sobre medidas solo software.',
+                'El industrial usa maniquíes mientras el sobre medidas solo <i>software</i>.',
               esCorrecta: false,
             },
             {

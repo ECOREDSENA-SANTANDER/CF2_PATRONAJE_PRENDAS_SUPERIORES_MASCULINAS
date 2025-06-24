@@ -115,32 +115,32 @@
       .col-lg-5.d-none.d-lg-block
         img(src="@/assets/curso/Tema3/img04.png")
       .col-lg-7.bg1.p-4
-        .row.justify-content-center.align-items-center.p-4
-          .col-lg-11
+        .row.justify-content-center.align-items-center
+          .col-lg-11.p-3
             p Para garantizar uniformidad durante el corte y la confección, se deben aplicar los siguientes márgenes:
           .row.justify-content-center.align-items-center
-            .col-lg-4
+            .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Costados: 1 cm.
-            .col-lg-5
+            .col-lg-5.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Sisas y hombros: 1,5 cm.
-            .col-lg-3
+            .col-lg-3.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Escote: 1 cm.
 
-            .col-lg-3
+            .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Cintura: 2 cm.
-            .col-lg-4
+            .col-lg-5.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
@@ -180,11 +180,11 @@
                   td Ajuste de tensión media para muselina.
                 tr
                   td #[b Prueba]
-                  td Maniquí regulable o modelo vivo; espejo de cuerpo entero; cámara/móvil.
+                  td Maniquí regulable o modelo vivo; espejo de cuerpo entero; cámara / móvil.
                   td Fotografías frontales, laterales y posteriores.
                 tr
                   td #[b Documentación]
-                  td Fichas técnicas, listas de chequeo, archivador, PC con software PDF.
+                  td Fichas técnicas, listas de chequeo, archivador, PC con #[em software] PDF.
                   td Los PDF deben estar etiquetados para accesibilidad.
              
     .row.justify-content-center.align-items-center.mb-4

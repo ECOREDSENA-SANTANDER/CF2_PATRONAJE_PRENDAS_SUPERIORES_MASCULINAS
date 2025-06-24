@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Descripción imagen")
+          img(src="@/assets/curso/sintesis.svg", alt="Esquema sobre patronaje de bases superiores masculinas, dividido en cuatro bloques: patronaje general, bases masculinas, piezas complementarias y comprobación del patrón. Incluye subtemas como tipos de patronaje, trazo de camisas clásicas y slim fit, cuellos, bolsillos y verificación con materiales. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
