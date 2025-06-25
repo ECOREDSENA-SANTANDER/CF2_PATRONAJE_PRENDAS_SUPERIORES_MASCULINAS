@@ -364,7 +364,22 @@
         .bg1.mb-0.p-4.izq
           p La cabeza de la manga corresponde a la parte superior del trazo, ubicada entre los puntos extremos de la sisa delantera y posterior, con centro en la línea de aplome, su forma y altura determinan el ajuste, la movilidad y el estilo de la prenda. Existen diferentes tipos de cabezas de manga según la intención del diseño, por lo que comprender su comportamiento es esencial para evitar tensiones o restricciones en el movimiento del brazo.
 
-    h4 Ejercicio 
+    .row.justify-content-center.align-items-center.mb-3
+      .col-lg-6.mb-3
+        .tarjeta.bgi-2
+          .bg-color-acento-contenido.bt-r.p-3.mb-0
+            h4.text-white.text-center.mb-0 Mayor altura de copa
+          .p-4
+            p.text-center.p-1 Una cabeza de manga más alta proporciona mayor estructura y precisión en el ajuste al cuerpo, pero limita el rango de movimiento, generando menor comodidad. Este comportamiento es característico de prendas entalladas o con estructura formal.
+      .col-lg-6.mb-3
+       .tarjeta.bgi-3
+          .bg-color-secundario.bt-r.p-3.mb-0
+            h4.text-white.text-center.mb-0 Menor altura de copa
+          .p-4
+            p.text-center.p-3 Una cabeza de manga más baja permite mayor movilidad y comodidad, pero con menor estructura y soporte. Este tipo se emplea comúnmente en prendas holgadas, informales o con diseño desestructurado.
+
+    .subt2.mb-4(data-aos="fade")
+      h3.mb-0 Ejercicio  
 
     p.mb-4 En el presente ejercicio se trabajan cabezas de manga cortas, lo cual indica una orientación hacia prendas de silueta suelta o relajada.
 

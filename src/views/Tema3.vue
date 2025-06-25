@@ -300,7 +300,10 @@
         .d-flex.align-items-center.mt-4
           img.w-card-icon(src="@/assets/curso/Tema1/ico1.svg")
           h3.bg2.py-2.w-card-text Ensamblaje del prototipo
-    h3.mb-5 Ensamblaje manual (alta costura)
+
+    .subt3.mb-5(data-aos="fade")
+      h3.mb-0 Ensamblaje manual (alta costura)
+
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4
         LineaTiempoD.color-acento-contenido
@@ -326,7 +329,9 @@
       .col-lg-6.col-md-8.col-9
         img(src="@/assets/curso/Tema3/img07.png")
 
-    h3.mb-5 Ensamblaje manual (alta costura)
+    .subt4.mb-5(data-aos="fade")
+      h3.mb-0 Ensamblaje en máquina (método industrial-docente)
+   
 
     .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
