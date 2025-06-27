@@ -157,7 +157,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 2.
-          span Fórmulas para deducción de medidas corporales
+          span Elementos y materiales en la comprobación
         .tabla-a.color-acento-botones(alt='La tabla presenta los elementos y materiales organizados por área para el proceso de comprobación. Se incluyen cinco áreas: Patronaje, Corte, Confección, Prueba y Documentación. Para cada una, se especifican los elementos necesarios y se añaden observaciones técnicas relevantes, como el etiquetado de piezas, el tipo de tela recomendado, los ajustes de tensión en la confección, los enfoques fotográficos requeridos y la necesidad de accesibilidad en los documentos digitales. ') 
             table
               thead
@@ -187,17 +187,7 @@
                   td Fichas técnicas, listas de chequeo, archivador, PC con #[em software] PDF.
                   td Los PDF deben estar etiquetados para accesibilidad.
              
-    .row.justify-content-center.align-items-center.mb-4
-        .col-lg-12
-          .bg6.mb-0
-            .row.justify-content-center.align-items-center.mb-0
-              .col-lg-4.d-none.d-lg-block(data-aos="fade-right").bg7
-                img.img-a.img-t.imgimportante(src='@/assets/curso/Tema3/importante.png', alt='')
-              .col-lg-8(data-aos="fade-left")
-                .bg6.p-3.mb-3.px-4
-                  .py-2
-                  h5.bg7.col-lg-2.text-center Importante
-                  p El #[em stay-stitch] es una costura de refuerzo que se realiza con puntada recta en los bordes curvos o inclinados de una prenda, como las sisas y escotes, para prevenir que se deformen o estiren durante el proceso de confección y manipulado. En el patronaje masculino, su aplicación es clave en prendas superiores como camisas o chaquetas, ayudando a mantener la forma del cuello, la sisa y otras áreas sesgadas. Esta costura se hace dentro del margen de costura, generalmente a unos milímetros del borde, siguiendo la dirección del hilo para asegurar que la pieza conserve su forma original.
+    
               
     .row.justify-content-start.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
@@ -242,11 +232,11 @@
                   th.w-75 Detalles técnicos
               tbody
                 tr
-                  td Patronaje
+                  td Corpiño
                   td Escote limpio, costado recto, línea de sisa suave, pinza con vértice a 2 cm del busto.
                 tr
-                  td Corte
-                  td Cabeza de 12 cm, bajo de manga 23,5 cm, línea de aplome centrada, piquetes bien ubicados (F/B/H).
+                  td Manga
+                  td Cabeza de 12 cm, bajo de manga 23,5 cm, línea de aplome centrada, piquetes bien ubicados (F / B / H).
    
       separador
       #t_3_1.titulo-segundo.mb-3
@@ -416,7 +406,17 @@
         img(src='@/assets/curso/Tema3/img09.png', alt='')  
 
     
-
+  .row.justify-content-center.align-items-center.mb-4
+        .col-lg-12
+          .bg6.mb-0
+            .row.justify-content-center.align-items-center.mb-0
+              .col-lg-4.d-none.d-lg-block(data-aos="fade-right").bg7
+                img.img-a.img-t.imgimportante(src='@/assets/curso/Tema3/importante.png', alt='')
+              .col-lg-8(data-aos="fade-left")
+                .bg6.p-3.mb-3.px-4
+                  .py-2
+                  h5.bg7.col-lg-2.text-center Importante
+                  p El #[em stay-stitch] es una costura de refuerzo que se realiza con puntada recta en los bordes curvos o inclinados de una prenda, como las sisas y escotes, para prevenir que se deformen o estiren durante el proceso de confección y manipulado. En el patronaje masculino, su aplicación es clave en prendas superiores como camisas o chaquetas, ayudando a mantener la forma del cuello, la sisa y otras áreas sesgadas. Esta costura se hace dentro del margen de costura, generalmente a unos milímetros del borde, siguiendo la dirección del hilo para asegurar que la pieza conserve su forma original.
 
 
 
