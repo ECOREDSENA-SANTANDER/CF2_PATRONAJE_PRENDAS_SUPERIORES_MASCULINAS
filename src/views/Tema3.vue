@@ -62,7 +62,7 @@
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 1.
           span Medidas base con holguras aplicadas (Talla 34)
-        .tabla-a.color-acento-botones(alt='Presenta una tabla con registro de evidencias, que organiza la información en tres columnas: Documento, Contenido y Formato. En ella se especifican tres tipos de evidencias: ficha técnica final, fotografías y patrones definitivos, junto con sus respectivos contenidos y los formatos requeridos para su entrega.') 
+        .tabla-a.color-acento-botones(alt='La tabla presenta las medidas base con holguras aplicadas para la talla 34, organizadas por parámetro, valor en centímetros y la holgura inicial correspondiente. Incluye medidas del contorno de cuello, pecho, cintura, cadera, ancho de espalda y pecho, largo de talle y altura de cabeza de manga. Algunas medidas incorporan incrementos de holgura específicos, mientras que otras no presentan ajustes.') 
             table
               caption Nota: “in” = pulgadas. “≈” = aproximadamente
               thead
