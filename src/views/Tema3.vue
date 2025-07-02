@@ -406,7 +406,7 @@
         img(src='@/assets/curso/Tema3/img09.png', alt='')  
 
     
-  .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .bg6.mb-0
             .row.justify-content-center.align-items-center.mb-0
