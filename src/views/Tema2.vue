@@ -213,7 +213,7 @@
                 h4.mb-1 Base superior masculina #[em slim fit]
                 p.mb-0 Como referencia complementaria, se sugiere visitar el siguiente video:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?app=desktop&v=rximz1xBJM8&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=lLLtWBVK-zA" target="_blank")
                   span Ir al sitio
                     i.fas.fa-circle-play.p-2
 
@@ -320,7 +320,7 @@
                     h4.mb-1 Trazo de camisa clásica
                     p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=PKd_D-0U968&t=76s&ab_channel=RedProducci%C3%B3ndeContenidosGrupoGesti%C3%B3nCurricularSENA" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(href="https://youtu.be/UwIdbbg5-fA" target="_blank")
                       span Ir al sitio
                         i.fas.fa-circle-play.p-2
 
