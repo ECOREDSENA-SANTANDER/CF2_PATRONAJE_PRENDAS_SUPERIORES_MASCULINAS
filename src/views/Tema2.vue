@@ -581,7 +581,7 @@
                 h4.mb-1 Trazo de manga, puño y cuello – camisa clásica y #[em slim fit]
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente enlace:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=VMJYcQqIKBQ" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(href="https://www.youtube.com/watch?v=cfkxQlf6Vfw" target="_blank")
                   span Ir al sitio
                     i.fas.fa-circle-play.p-2
 
