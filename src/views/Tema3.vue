@@ -328,7 +328,7 @@
           .bg6.mb-0
             .row.justify-content-center.align-items-center.mb-0
               .col-lg-5.d-none.d-lg-block(data-aos="fade-right")
-                img.img-a.img-t.izq(src='@/assets/curso/Tema3/img02.png', alt='')    
+                img.img-a.img-t.izq(src='@/assets/curso/Tema3/img08.png', alt='')    
               .col-lg-7(data-aos="fade-left")
                 .bg6.p-1.mb-3.px-4
                   .py-2

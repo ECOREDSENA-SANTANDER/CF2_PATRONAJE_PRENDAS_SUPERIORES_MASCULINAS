@@ -343,7 +343,7 @@
           table
             thead
               tr
-                th.w-25 Abrev./símbolo
+                th.w-25 Abreviatura/símbolo
                 th.w-50 Significado
             tbody
               tr
