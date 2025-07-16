@@ -61,7 +61,7 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
           h5 Tabla 1.
-          span Medidas base con holguras aplicadas (Talla 34)
+          span Medidas base con holguras aplicadas (talla 34)
         .tabla-a.color-acento-botones(alt='La tabla presenta las medidas base con holguras aplicadas para la talla 34, organizadas por parámetro, valor en centímetros y la holgura inicial correspondiente. Incluye medidas del contorno de cuello, pecho, cintura, cadera, ancho de espalda y pecho, largo de talle y altura de cabeza de manga. Algunas medidas incorporan incrementos de holgura específicos, mientras que otras no presentan ajustes.') 
             table
               caption Nota: “in” = pulgadas. “≈” = aproximadamente
@@ -78,26 +78,26 @@
                 tr
                   td Contorno pecho a saco.
                   td 86 cm (34 in).
-                  td +6cm.
+                  td + 6cm.
                 tr
                   td Contorno cintura pantalón.
                   td 71 cm (28 in).
-                  td +4 cm.
+                  td + 4 cm.
                 tr
                   td Contorno cadera base.
                   td 86 cm (34 in).
-                  td +4 cm.
+                  td + 4 cm.
                 tr
                   td Ancho espalda.
-                  td 40.6 cm.
-                  td +0.5 cm.
+                  td 40,6 cm.
+                  td + 0,5 cm.
                 tr
                   td Ancho pecho.
-                  td 36.2 cm.
-                  td +0.5 cm.
+                  td 36,2 cm.
+                  td + 0,5 cm.
                 tr
                   td Largo talle.
-                  td 43.7 cm.
+                  td 43,7 cm.
                   td 0 cm.
                 tr
                   td Altura cabeza manga camisa.
@@ -254,7 +254,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
-        p.mb-5 pasos para seguir:
+        p.mb-5 Pasos para seguir:
         .col-sm.mb-5.mb-sm-0
         ol.lista-ol--cuadro.lista-ol--separador
           li.d-flex 
@@ -279,7 +279,7 @@
           li.d-flex
             .lista-ol--cuadro__vineta
               span 5
-            | Cortar manteniendo la tela plana, incluyendo piquetes de 2–3 mm.
+            | Cortar manteniendo la tela plana, incluyendo piquetes de 2 – 3 mm.
 
       .col-lg-6.col-md-8.col-9
         img(src='@/assets/curso/Tema3/img06.png', alt='')
@@ -299,14 +299,17 @@
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Hilvanar pinzas y pliegues")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small Paso preliminar clave para dar forma sin comprometer aún la tela con costura definitiva.
 
           .row(numero="2" titulo="Unir hombros y costados (dejando CA abierto hasta la cintura)")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small Permite mayor control del ajuste durante pruebas intermedias.
 
           .row(numero="3" titulo="Cerrar costura bajo-manga")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small Se asegura continuidad entre el cuerpo y la manga.
       
           .row(numero="4" titulo="Unir manga al cuerpo")
@@ -320,7 +323,7 @@
         img(src="@/assets/curso/Tema3/img07.png")
 
     .subt4.mb-5(data-aos="fade")
-      h3.mb-0 Ensamblaje en máquina (método industrial-docente)
+      h3.mb-0 Ensamblaje en máquina (método industrial - docente)
    
 
     .row.justify-content-center.align-items-center.mb-5
@@ -375,7 +378,7 @@
                 tr
                   td.text-center 1
                   td.text-center Coser pinzas.
-                  td.text-center 2,5–3 mm, remate.
+                  td.text-center 2,5 – 3 mm, remate.
                 tr
                   td.text-center 2
                   td.text-center Hombros (1,5 cm).
@@ -390,12 +393,12 @@
                   td.text-center 4 mm, sin remate.
                 tr
                   td.text-center 5
-                  td.text-center Cerrar bajo-manga (1 cm).
+                  td.text-center Cerrar bajo - manga (1 cm).
                   td.text-center Planchar hacia atrás.
                 tr
                   td.text-center 6
                   td.text-center Montar manga (casar piquetes).
-                  td.text-center 2,5–3 mm.
+                  td.text-center 2,5 – 3 mm.
                 tr
                   td.text-center 7
                   td.text-center Planchar corona sobre almohadilla.

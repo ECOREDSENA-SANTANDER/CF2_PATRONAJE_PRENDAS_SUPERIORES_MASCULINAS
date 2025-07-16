@@ -157,7 +157,7 @@ export default {
     {
       tema: 'Patronaje básico superiores de camisa.',
       referencia:
-        'Servicio Nacional de Aprendizaje (SENA). (2015). Patronaje y escalada línea masculina.',
+        'Servicio Nacional de Aprendizaje (SENA). (2015). Patronaje y escalado línea masculina.',
       tipo: 'PDF',
       link:
         'https://repositorio.sena.edu.co/bitstream/11404/5245/1/patronaje_escalado_linea_masculina.pdf ',
@@ -318,7 +318,7 @@ export default {
         },
         {
           nombre: 'Sandra Paola Morales Páez',
-          cargo: 'Evaluadora Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro Agroturístico – Regional Santander ',
         },
       ],
@@ -347,13 +347,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: ' ',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],

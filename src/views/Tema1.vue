@@ -20,7 +20,7 @@
             h5 Figura 1.
             span Plano en 3D
           figure
-            img(src='@/assets/curso/Tema1/figura1.svg', alt='Cubo en dos enfoques. El primero indica su forma tridimensional usando líneas continuas y segmentadas. El segundo lo ubica dentro de un sistema de coordenadas con tres ejes: X (horizontal), Y (vertical) y Z (profundidad), facilitando su comprensión espacial.')
+            img(src='@/assets/curso/Tema1/figura1.png', alt='Cubo en dos enfoques. El primero indica su forma tridimensional usando líneas continuas y segmentadas. El segundo lo ubica dentro de un sistema de coordenadas con tres ejes: X (horizontal), Y (vertical) y Z (profundidad), facilitando su comprensión espacial.')
         .col-lg-6.col-md-8.mb-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 2.
@@ -63,7 +63,7 @@
             h5 Figura 4.
             span  Interpretación en plano y molde
           figure
-            img(src='@/assets/curso/Tema1/figura4.svg', alt=' La figura representa la secuencia técnica del desarrollo de una prenda a partir del cuerpo humano. Inicia con la estructura corporal, seguida por la segmentación anatómica, el trazado del plano bidimensional, la elaboración del molde y finaliza con la prenda terminada. Este proceso traduce las proporciones del cuerpo en formas planas que sirven de base para la confección.')
+            img(src='@/assets/curso/Tema1/figura4.svg', alt='Representa la secuencia técnica del desarrollo de una prenda a partir del cuerpo humano. Inicia con la estructura corporal, seguida por la segmentación anatómica, el trazado del plano bidimensional, la elaboración del molde y finaliza con la prenda terminada. Este proceso traduce las proporciones del cuerpo en formas planas que sirven de base para la confección.')
             figcaption Fuente: https://seampedia.com/el-patron-un-juego-de-dimensiones/
 
       separador
@@ -199,7 +199,7 @@
             h5 Figura 5.
             span Patronaje sobre maniquí
           figure
-            img(src='@/assets/curso/Tema1/figura5.png', alt='La imagen representa una etapa del patronaje tridimensional, en la cual un profesional ajusta directamente la prenda sobre un maniquí para definir líneas de diseño, caídas de tela y proporciones. Este procedimiento permite modelar la prenda con precisión sobre una estructura corporal simulada antes de trasladarla al patrón definitivo.')
+            img(src='@/assets/curso/Tema1/figura5.png', alt='Representa una etapa del patronaje tridimensional, en la cual un profesional ajusta directamente la prenda sobre un maniquí para definir líneas de diseño, caídas de tela y proporciones. Este procedimiento permite modelar la prenda con precisión sobre una estructura corporal simulada antes de trasladarla al patrón definitivo.')
       p En los procesos productivos de la industria de la confección, las fichas técnicas son herramientas clave que guían el trabajo de cada integrante del equipo; estas fichas detallan de forma clara las especificaciones, materiales, secuencia de ensamblaje y requerimientos técnicos de cada prenda, garantizando uniformidad y precisión en la producción.
 
       separador
@@ -211,7 +211,7 @@
           img.img-a.img-t.izq(src='@/assets/curso/Tema1/img09.png', alt='')
         .col-lg-9
           .bg5.mb-0.p-4.izq
-            p La confección de prendas a la medida requiere un procedimiento sistemático que garantice la calidad y la fidelidad al diseño solicitado por el cliente; El proceso debe seguir una secuencia estructurada de pasos que aseguren el cumplimiento de criterios técnicos, funcionales y estéticos, permitiendo que el producto final responda de manera efectiva a las expectativas del usuario.
+            p La confección de prendas a la medida requiere un procedimiento sistemático que garantice la calidad y la fidelidad al diseño solicitado por el cliente. El proceso debe seguir una secuencia estructurada de pasos que aseguren el cumplimiento de criterios técnicos, funcionales y estéticos, permitiendo que el producto final responda de manera efectiva a las expectativas del usuario.
 
       .tarjeta.color-primario.p-3(data-aos="fade").mb-4
         .row.justify-content-around.align-items-center.p-3
@@ -243,33 +243,39 @@
             p En el desarrollo de patrones, el uso correcto de convenciones gráficas es esencial para la interpretación técnica, el trazado y el corte de piezas. Estos símbolos y signos permiten comprender los planos sin necesidad de explicaciones extensas, favoreciendo la comunicación visual entre diseñadores, patronistas y confeccionistas.
             p Cada pieza del patrón debe estar claramente rotulada con la siguiente información:
           .bg3.p-3  
-            .row.justify-content-center.align-items-center
-              .col-lg-3.d-flex.mb-3 
-                i.fas.fa-chevron-circle-right.px-4
-                | Nombre de la pieza
-              .col-lg-3.d-flex.mb-3 
-                i.fas.fa-chevron-circle-right.px-4
-                | Referencia o código
-              .col-lg-3.d-flex.mb-3 
-                i.fas.fa-chevron-circle-right.px-4
-                | Talla
-              .col-lg-3.d-flex.mb-3
-                i.fas.fa-chevron-circle-right.px-4
-                | Nombre del patronista
+            .row.justify-content-center
+              .col-lg-4.d-flex.mb-3 
+                ul.lista-ul--color
+                  li    
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Nombre de la pieza
+                  li  
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Referencia o código
+                  li  
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Talla
               .col-lg-4.d-flex.mb-3
-                i.fas.fa-chevron-circle-right.px-4
-                | Símbolos de corte (hilo, doblez, dirección)
-              .col-lg-4.d-flex.mb-3
-                i.fas.fa-chevron-circle-right.px-4
-                | Cantidad de veces que se debe cortar
-              .col-lg-3.d-flex.mb-3 
-                i.fas.fa-chevron-circle-right.px-4
-                | Piquetes de confección
-              .col-lg-3.d-flex.mb-3 
-                i.fas.fa-chevron-circle-right.px-4
-                | Líneas de aplome o ajuste
+                ul.lista-ul--color
+                  li  
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Nombre del patronista
+                  li
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Símbolos de corte (hilo, doblez, dirección)
+                  li
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Cantidad de veces que se debe cortar
+              .col-lg-4.d-flex.mb-3 
+                ul.lista-ul--color
+                  li  
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Piquetes de confección
+                  li
+                    i.fas.fa-chevron-circle-right.px-4
+                    | Líneas de aplome o ajuste
           .py-2
-          p.text-center Adicionalmente, pueden incluirse detalles como instrucciones de estampado, especificaciones de color o material, acabados especiales, y ubicación de componentes como bolsillos o cierres.
+          p Adicionalmente, pueden incluirse detalles como instrucciones de estampado, especificaciones de color o material, acabados especiales, y ubicación de componentes como bolsillos o cierres.
 
         .row.justify-content-center(titulo="Trazado y escalas")
           .col-lg-2.col-10.mb-3.col-md-6
@@ -282,14 +288,14 @@
             .row.justify-content-center.align-items-center
               .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
-                | Escala 1:1. Tamaño real
+                | Escala 1:1. Tamaño real.
               .col-lg-3.d-flex.mb-3 
                 i.fas.fa-chevron-circle-right.px-4
-                | Escala 1:2. Mitad del tamaño
+                | Escala 1:2. Mitad del tamaño.
               .col-lg-4.d-flex.mb-3   
                 i.fas.fa-chevron-circle-right.px-4
-                | Escala 1:4. Cuarta parte del tamaño        
-              p.text-center El trabajo en escala reducida es especialmente útil para construir y analizar patrones base de forma más práctica y económica.
+                | Escala 1:4. Cuarta parte del tamaño.        
+              p El trabajo en escala reducida es especialmente útil para construir y analizar patrones base de forma más práctica y económica.
 
 
         .row.justify-content-center(titulo="Materiales recomendados para trabajar el manual") 
@@ -298,7 +304,7 @@
             ul.lista-ul--color
               li
                 i.fas.fa-chevron-circle-right
-                | Regla mágica (60 x 5 cm con cuadrícula y ángulo de 45 °).
+                | Regla mágica (60 x 5 cm con cuadrícula y ángulo de 45°).
               li
                 i.fas.fa-chevron-circle-right
                 | Curvígrafo para el diseño de curvas.
@@ -313,7 +319,7 @@
 
               li
                 i.fas.fa-chevron-circle-right
-                | Lápiz o portaminas (HB, 2H, 0.5 mm, 0.7 mm, 0.2 mm).
+                | Lápiz o portaminas (HB, 2H, 0,5 mm, 0,7 mm, 0,2 mm).
 
 
               li

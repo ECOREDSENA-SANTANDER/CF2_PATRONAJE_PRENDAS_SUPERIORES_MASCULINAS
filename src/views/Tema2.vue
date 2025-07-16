@@ -48,7 +48,7 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-play
-                    |P = Contorno de pecho (talla de referencia).
+                    |P = contorno de pecho (talla de referencia).
                
             .row
               .col-md-12.mb-4.mb-md-0
@@ -74,7 +74,7 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-play
-                    |Cuello posterior masculino = P / 20 + 2.5
+                    |Cuello posterior masculino = P / 20 + 2,5
             .row
               .col-md-12.mb-4.mb-md-0
                 h5 f)	Manejo del papel para trazado
@@ -148,7 +148,7 @@
                       i.fas.fa-chevron-circle-right
                       p.mb-0 Despiece del molde (separación de las piezas para corte).
               
-    p.mb-4.text-center Este patrón actúa como plantilla esencial sobre la cual se realizarán las transformaciones necesarias para diseñar prendas específicas, asegurando ajuste, funcionalidad y estética.
+    p.mb-4 Este patrón actúa como plantilla esencial sobre la cual se realizarán las transformaciones necesarias para diseñar prendas específicas, asegurando ajuste, funcionalidad y estética.
 
     .row.justify-content-center.align-items-center.mb-2.bgazul.p-4
       .col-lg-12.mb-4
@@ -197,8 +197,9 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p.mb-1 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
                 h5.mb-0 Manual de patronaje básico e interpretación de diseños. Esquema del patrón base masculino clásico y #[em slim fit], página 65 a 67.
+                p.mb-1 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
+               
               .col-sm-auto
                 a.boton.color-acento-botones.texto-blanco(href="https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/Adaptaci%C3%B3n%20a%20partir%20de%20Tituladas/Patronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/ANEXOS%20CF2%20PRENDAS%20MASCULINAS/Manual_patronaje_basico_interpretacion_disenos.PDF?csf=1&web=1&e=GHHGzG" target="_blank")
                   span Descargar
@@ -285,7 +286,7 @@
                 .bg6.p-3.px-4
                   .py-2
                   h5.bg7.col-lg-2.text-center.mb-5 Nota
-                  p.mb-4 para la implementación del trazo de patrones básicos superiores debe considerar lo siguiente:
+                  p.mb-4 Para la implementación del trazo de patrones básicos superiores debe considerar lo siguiente:
                   ul.lista-ul--color
                     li.d-flex
                       i.fas.fa-chevron-circle-right
@@ -502,35 +503,40 @@
           span  Transformación de base a camisa #[em slim fit]
       .col-lg-6.mb-4
         figure
-          img(src='@/assets/curso/Tema2/figura10.svg', alt='La figura corresponde a la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo.')
+          img(src='@/assets/curso/Tema2/figura10.svg', alt='Corresponde a la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo.')
 
-    p.mb-4.text-center A continuación, se detallan los pasos para el trazo:
+    p.mb-4 A continuación, se detallan los pasos para el trazo:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4
         LineaTiempoD.color-acento-contenido
           .row(numero="1" titulo="Establecimiento de ejes y líneas de referencia")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small -  Sobre el papel de patrón, marque primero el eje de simetría (línea central vertical) y, perpendicular a éste, la línea de hombro.
-              p.text-small -  Desde la línea de hombro, proyecte hacia abajo la línea de talle natural a 25 cm. En ese tramo, distribuya de forma equidistante 9 cm (sisa–cintura), otros 9 cm (cintura–cadera) y, finalmente, deje 1.5 cm de margen para dobladillo.
+              p.text-small -  Desde la línea de hombro, proyecte hacia abajo la línea de talle natural a 25 cm. En ese tramo, distribuya de forma equidistante 9 cm (sisa – cintura), otros 9 cm (cintura – cadera) y, finalmente, deje 1,5 cm de margen para dobladillo.
 
           .row(numero="2" titulo="Delimitación del contorno del cuerpo (delantero y espalda)")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small -  Sobre la línea de talle, dibuje la mitad del contorno de pecho más la holgura deseada, uniendo esa medida con el punto de hombro y el dobladillo para formar la línea lateral.
-              p.text-small -  Aplique un margen uniforme de 1.5 cm para costura en costados y dobladillo.
+              p.text-small -  Aplique un margen uniforme de 1,5 cm para costura en costados y dobladillo.
 
           .row(numero="3" titulo="Trazado de hombro y curva de sisa")
             .col-md-12.mb-4.mb-md-0
-              p.text-small -  En la línea de hombro, incline el hombro 2.5 cm hacia el cuello (tanto en delantero como en espalda) y conecte con un primer tramo de sisa que parte con un radio de 3 cm desde el hombro.
-              p.text-small -  Continúe la curva de sisa hasta la línea lateral, asegurando una holgura de 1.5 cm en la unión con el costado. Esta curva se extrae en la sección superior derecha del plano para su dimensionamiento (marcas circulares y flecha de dirección de hilo).
+              br
+              p.text-small -  En la línea de hombro, incline el hombro 2,5 cm hacia el cuello (tanto en delantero como en espalda) y conecte con un primer tramo de sisa que parte con un radio de 3 cm desde el hombro.
+              p.text-small -  Continúe la curva de sisa hasta la línea lateral, asegurando una holgura de 1,5 cm en la unión con el costado. Esta curva se extrae en la sección superior derecha del plano para su dimensionamiento (marcas circulares y flecha de dirección de hilo).
       
           .row(numero="4" titulo="Definición de escote y vistas")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small El orden sugerido (hombro, piquetes F/B y distribución del embebido) es el adecuado para un montaje sin frunces visibles.
           .row(numero="5" titulo="Planchar costuras abiertas y pinzas")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small -  Marque la profundidad de escote: delantero a 9 cm bajo la línea de hombro; espalda a 3 cm.
-              p.text-small -  Dibuje la curva de escote mediante radios de 8 cm (en centro) y 11 cm (en extremos), luego reserve una vista de 1.5 cm de ancho para la tapeta de cuello en el delantero.
+              p.text-small -  Dibuje la curva de escote mediante radios de 8 cm (en centro) y 11 cm (en extremos), luego reserve una vista de 1,5 cm de ancho para la tapeta de cuello en el delantero.
       
       .col-lg-6.col-md-8.col-9
         img(src="@/assets/curso/Tema2/img18.png")
@@ -541,23 +547,27 @@
         LineaTiempoD.color-acento-contenido
           .row(numero="5" titulo="Distribución de pinzas de molde")
             .col-md-12.mb-4.mb-md-0
-              p.text-small -  Delantero: integre dos pinzas verticales (una central y otra lateral) con base de 2.5 cm y longitud de 11 cm, desplazadas 2.6 cm y 4 cm respectivamente desde el eje de simetría.
-              p.text-small -  Espalda: trace una sola pinza central con base de 2.4 cm y 11 cm de largo, alineada al eje vertical. Las líneas de apertura de pinza se indican con ángulo de partida (flechas) y longitud según medida.
+              p.text-small -  Delantero: integre dos pinzas verticales (una central y otra lateral) con base de 2,5 cm y longitud de 11 cm, desplazadas 2,6 cm y 4 cm respectivamente desde el eje de simetría.
+              p.text-small -  Espalda: trace una sola pinza central con base de 2,4 cm y 11 cm de largo, alineada al eje vertical. Las líneas de apertura de pinza se indican con ángulo de partida (flechas) y longitud según medida.
 
           .row(numero="6" titulo="Diseño del cuello (pie de cuello y faldón)")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small -  Aísle la curva de escote en la sección superior izquierda para construir dos piezas:
-              p.text-small 1. Pie de cuello: 7.5 cm de altura en el centro, 4.8 cm en extremos.
-              p.text-small 2. Faldón de cuello: 4 cm en centro, 3.5 cm en extremos.
-              p.text-small -  Separe ambas piezas con un radio de giro de 1.8 cm en el punto de pivotaje marcado.
+              p.text-small     1. Pie de cuello: 7,5 cm de altura en el centro, 4,8 cm en extremos.
+              p.text-small     2. Faldón de cuello: 4 cm en centro, 3,5 cm en extremos.
+
+              p.text-small -  Separe ambas piezas con un radio de giro de 1,8 cm en el punto de pivotaje marcado.
 
           .row(numero="7" titulo="Pata de botones y ojales")
             .col-md-12.mb-4.mb-md-0
-              p.text-small -  En el borde delantero, agregue una vista de 1.5 cm para los botones.
+              p.text-small -  En el borde delantero, agregue una vista de 1,5 cm para los botones.
+
               p.text-small -  Represente cada ojal con un marcador circular y distáncielos uniformemente a 9 cm de separación, siguiendo la flecha que indica la dirección de montaje.
       
           .row(numero="8" titulo="Márgenes de costura, muescas y dirección de hilo")
             .col-md-12.mb-4.mb-md-0
+              br
               p.text-small -  Añada 1 cm de holgura para costura en todas las uniones (hombro, costados, sisa y dobladillo).
               p.text-small -  Señale con pequeñas muescas los puntos de encuentro de hombro, sisa y pinzas, así como las uniones de cuello y pata de botones.
               p.text-small -  Indique la dirección de hilo en cada pieza mediante flechas, para garantizar un correcto corte y ensamblaje.

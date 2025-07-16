@@ -73,14 +73,14 @@
                   td.text-center —
                 tr
                   td.text-center Escote.
-                  td.text-center Plano, sin gape.
+                  td.text-center Plano, sin #[em gape].
                   td.text-center —
                 tr
                   td.text-center Costado.
                   td.text-center Perpendicular al piso.
                   td.text-center —
 
-    p.mb-4 Esta lista de verificación permite evaluar el comportamiento del conjunto corpiño-manga tras el ensamblaje del prototipo. A través de estos criterios, se determina si las piezas interactúan correctamente, respetan las proporciones funcionales y permiten movilidad sin generar tensiones ni deformaciones visibles. Su aplicación garantiza un ajuste técnico preciso antes de aprobar el patrón definitivo.
+    p.mb-4 Esta lista de verificación permite evaluar el comportamiento del conjunto corpiño - manga tras el ensamblaje del prototipo. A través de estos criterios, se determina si las piezas interactúan correctamente, respetan las proporciones funcionales y permiten movilidad sin generar tensiones ni deformaciones visibles. Su aplicación garantiza un ajuste técnico preciso antes de aprobar el patrón definitivo.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4
@@ -104,7 +104,7 @@
                   td.text-center Liso, sin frunces visibles.
                   td.text-center —
                 tr
-                  td.text-center Piquetes F/B/H alineados.
+                  td.text-center Piquetes F / B / H alineados.
                   td.text-center Coinciden perfectamente.
                   td.text-center —
                 tr
@@ -258,7 +258,7 @@
                   td.text-center JPG/PNG con texto alternativo.
                 tr
                   td.text-center Patrones definitivos.
-                  td.text-center Corpiño y manga T-34 final.
+                  td.text-center Corpiño y manga T - 34 final.
                   td.text-center Cartapacio rotulado.
       .col-lg-5.col-9.col-md-7
         img(src="@/assets/curso/Tema4/img07.svg")
@@ -296,7 +296,7 @@
                   td.text-center Pecho
                   td.text-center Arrugas horizontales.
                   td.text-center Falta de holgura.
-                  td.text-center Añadir 0,5–1 cm en costado; profundizar pinza 0,5 cm.
+                  td.text-center Añadir 0,5 – 1 cm en costado; profundizar pinza 0,5 cm.
                 tr
                   td.text-center Cintura
                   td.text-center Exceso de tela.
@@ -316,7 +316,7 @@
                   td.text-center Bíceps
                   td.text-center Tirantez.
                   td.text-center Ancho insuficiente.
-                  td.text-center Añadir 0,5 cm en cada lado bajo-manga.
+                  td.text-center Añadir 0,5 cm en cada lado bajo - manga.
       .col-lg-3.bg8.mt-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mt-4.mb-2
@@ -343,15 +343,15 @@
           table
             thead
               tr
-                th.w-25 Abreviatura/símbolo
+                th.w-25 Abreviatura / símbolo
                 th.w-50 Significado
             tbody
               tr
                 td.text-center CF
-                td.text-center #[em Centre Front]/Centro Frente.
+                td.text-center #[em Centre Front] / Centro Frente.
               tr
                 td.text-center CA
-                td.text-center #[em Centre Back]/Centro Atrás.
+                td.text-center #[em Centre Back] / Centro Atrás.
               tr
                 td.text-center F
                 td.text-center Piquete delantero de manga.
@@ -366,7 +366,7 @@
                 td.text-center Piquete.
               tr
                 td.text-center —¬¬──
-                td.text-center #[em Stay-stitch] (costura de estabilizado).
+                td.text-center #[em Stay - stitch] (costura de estabilizado).
               tr
                 td.text-center ● ●
                 td.text-center Líneas de frunce.
