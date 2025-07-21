@@ -244,34 +244,35 @@
             p Cada pieza del patrón debe estar claramente rotulada con la siguiente información:
           .bg3.p-3  
             .row.justify-content-center
-              .col-lg-4.d-flex.mb-3 
+              .col-lg-4.d-flex.mb-1
                 ul.lista-ul--color
-                  li    
+                  li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
                     | Nombre de la pieza
-                  li  
+                  li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
                     | Referencia o código
-                  li  
+                  li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
                     | Talla
-              .col-lg-4.d-flex.mb-3
+              .col-lg-4.d-flex.mb-1
                 ul.lista-ul--color
-                  li  
+                  li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
                     | Nombre del patronista
-                  li
+                  li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
                     | Símbolos de corte (hilo, doblez, dirección)
-                  li
+                  
+              .col-lg-4.d-flex.mb-1
+                ul.lista-ul--color
+                  li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
                     | Cantidad de veces que se debe cortar
-              .col-lg-4.d-flex.mb-3 
-                ul.lista-ul--color
-                  li  
+                  li.d-flex  
                     i.fas.fa-chevron-circle-right.px-4
                     | Piquetes de confección
-                  li
+                  li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
                     | Líneas de aplome o ajuste
           .py-2

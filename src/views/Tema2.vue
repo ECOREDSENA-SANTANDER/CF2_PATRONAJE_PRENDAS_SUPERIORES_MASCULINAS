@@ -503,7 +503,7 @@
           span  Transformación de base a camisa #[em slim fit]
       .col-lg-6.mb-4
         figure
-          img(src='@/assets/curso/Tema2/figura10.svg', alt='Corresponde a la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo.')
+          img(src='@/assets/curso/Tema2/figura10.svg', alt='Describe la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo. ')
 
     p.mb-4 A continuación, se detallan los pasos para el trazo:
 
@@ -532,11 +532,7 @@
             .col-md-12.mb-4.mb-md-0
               br
               p.text-small El orden sugerido (hombro, piquetes F/B y distribución del embebido) es el adecuado para un montaje sin frunces visibles.
-          .row(numero="5" titulo="Planchar costuras abiertas y pinzas")
-            .col-md-12.mb-4.mb-md-0
-              br
-              p.text-small -  Marque la profundidad de escote: delantero a 9 cm bajo la línea de hombro; espalda a 3 cm.
-              p.text-small -  Dibuje la curva de escote mediante radios de 8 cm (en centro) y 11 cm (en extremos), luego reserve una vista de 1,5 cm de ancho para la tapeta de cuello en el delantero.
+          
       
       .col-lg-6.col-md-8.col-9
         img(src="@/assets/curso/Tema2/img18.png")

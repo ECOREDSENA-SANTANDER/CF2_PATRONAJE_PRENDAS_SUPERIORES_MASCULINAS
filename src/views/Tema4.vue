@@ -28,7 +28,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        p Para validar el ajuste y la calidad del prototipo, se utilizan listas de chequeo que permiten comparar los criterios técnicos establecidos con el comportamiento real de la prenda; estas listas consideran aspectos como la ubicación correcta de las pinzas, la caída del hombro, el despegue de la sisa, la holgura funcional y el aplome general del conjunto corpiño-manga. Las observaciones realizadas en este punto serán la base para definir si se requiere ajustar el patrón base y repetir la prueba.
+        p Para validar el ajuste y la calidad del prototipo, se utilizan listas de chequeo que permiten comparar los criterios técnicos establecidos con el comportamiento real de la prenda; estas listas consideran aspectos como la ubicación correcta de las pinzas, la caída del hombro, el despegue de la sisa, la holgura funcional y el aplome general del conjunto corpiño - manga. Las observaciones realizadas en este punto serán la base para definir si se requiere ajustar el patrón base y repetir la prueba.
       .col-lg-2.col-8.col-md-6
         img(src="@/assets/curso/Tema4/img02.svg")
 
@@ -112,7 +112,7 @@
                   td.text-center 90° sin tirantez.
                   td.text-center —
                 tr
-                  td.text-center Línea costado-bajo-manga.
+                  td.text-center Línea costado - bajo - manga.
                   td.text-center Fluida, sin quiebres.
                   td.text-center —
       .col-lg-6.col-9
@@ -255,7 +255,7 @@
                 tr
                   td.text-center Fotografías.
                   td.text-center Frente, perfil, espalda.
-                  td.text-center JPG/PNG con texto alternativo.
+                  td.text-center JPG / PNG con texto alternativo.
                 tr
                   td.text-center Patrones definitivos.
                   td.text-center Corpiño y manga T - 34 final.

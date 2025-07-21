@@ -116,20 +116,20 @@
         img(src="@/assets/curso/Tema3/img04.png")
       .col-lg-7.bg1.p-4
         .row.justify-content-center.align-items-center
-          .col-lg-11.p-3
+          .col-lg-12.p-3
             p Para garantizar uniformidad durante el corte y la confección, se deben aplicar los siguientes márgenes:
-          .row.justify-content-center.align-items-center
+          .row.align-items-center
             .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Costados: 1 cm.
-            .col-lg-5.d-flex
+            .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
                   |Sisas y hombros: 1,5 cm.
-            .col-lg-3.d-flex
+            .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
@@ -140,7 +140,7 @@
                 li
                   i.fas.fa-circle-check
                   |Cintura: 2 cm.
-            .col-lg-5.d-flex
+            .col-lg-4.d-flex
               ul.lista-ul--color
                 li
                   i.fas.fa-circle-check
@@ -307,7 +307,7 @@
               br
               p.text-small Permite mayor control del ajuste durante pruebas intermedias.
 
-          .row(numero="3" titulo="Cerrar costura bajo-manga")
+          .row(numero="3" titulo="Cerrar costura bajo - manga")
             .col-md-12.mb-4.mb-md-0
               br
               p.text-small Se asegura continuidad entre el cuerpo y la manga.
