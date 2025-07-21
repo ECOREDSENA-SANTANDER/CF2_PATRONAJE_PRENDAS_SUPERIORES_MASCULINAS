@@ -248,33 +248,33 @@
                 ul.lista-ul--color
                   li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
-                    | Nombre de la pieza
+                    | Nombre de la pieza.
                   li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
-                    | Referencia o código
+                    | Referencia o código.
                   li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
-                    | Talla
+                    | Talla.
               .col-lg-4.d-flex.mb-1
                 ul.lista-ul--color
                   li.d-flex   
                     i.fas.fa-chevron-circle-right.px-4
-                    | Nombre del patronista
+                    | Nombre del patronista.
                   li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
-                    | Símbolos de corte (hilo, doblez, dirección)
+                    | Símbolos de corte (hilo, doblez, dirección).
                   
               .col-lg-4.d-flex.mb-1
                 ul.lista-ul--color
                   li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
-                    | Cantidad de veces que se debe cortar
+                    | Cantidad de veces que se debe cortar.
                   li.d-flex  
                     i.fas.fa-chevron-circle-right.px-4
-                    | Piquetes de confección
+                    | Piquetes de confección.
                   li.d-flex 
                     i.fas.fa-chevron-circle-right.px-4
-                    | Líneas de aplome o ajuste
+                    | Líneas de aplome o ajuste.
           .py-2
           p Adicionalmente, pueden incluirse detalles como instrucciones de estampado, especificaciones de color o material, acabados especiales, y ubicación de componentes como bolsillos o cierres.
 
