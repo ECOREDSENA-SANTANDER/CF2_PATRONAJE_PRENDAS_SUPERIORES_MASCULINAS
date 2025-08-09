@@ -201,7 +201,7 @@
                 p.mb-1 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
                
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/Adaptaci%C3%B3n%20a%20partir%20de%20Tituladas/Patronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/ANEXOS%20CF2%20PRENDAS%20MASCULINAS/Manual_patronaje_basico_interpretacion_disenos.PDF?csf=1&web=1&e=GHHGzG" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar
                     i.fas.fa-file-download.p-2
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
@@ -307,7 +307,7 @@
                   h4.mb-1 Manual de patronaje básico e interpretación de diseños
                   p.mb-0 Pasos detallados para realizar patrón camisa clásica, páginas 66 y 67.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(href="https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/Adaptaci%C3%B3n%20a%20partir%20de%20Tituladas/Patronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/ANEXOS%20CF2%20PRENDAS%20MASCULINAS/Manual_patronaje_basico_interpretacion_disenos.PDF?csf=1&web=1&e=GHHGzG" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                     span Descargar
                       i.fas.fa-file-download.p-2
       .col.lg-6

@@ -223,7 +223,7 @@
                 h4.mb-1 Pasos para definir el patronaje 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://sena4.sharepoint.com/sites/VirtualizacionRED/Documentos%20compartidos/Forms/AllItems.aspx?id=%2Fsites%2FVirtualizacionRED%2FDocumentos%20compartidos%2F2025%2FLP%2DSantander%2FCOMPLEMENTARIAS%2FAdaptación%20a%20partir%20de%20Tituladas%2FPatronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual%2F1%2E%20FinalxVirtualizar%2FContenidos%2FCF02%2FFormatos%20DI%2FANEXOS%20CF2%20PRENDAS%20MASCULINAS%2F1%2E%20Anexo%201%2E%20Pasos%20para%20definir%20el%20patronaje%2Epdf&parent=%2Fsites%2FVirtualizacionRED%2FDocumentos%20compartidos%2F2025%2FLP%2DSantander%2FCOMPLEMENTARIAS%2FAdaptación%20a%20partir%20de%20Tituladas%2FPatronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual%2F1%2E%20FinalxVirtualizar%2FContenidos%2FCF02%2FFormatos%20DI%2FANEXOS%20CF2%20PRENDAS%20MASCULINAS" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
                   span Descargar
                     i.fas.fa-file-download.p-2
 
@@ -353,7 +353,7 @@
                 h4.mb-1 Manual de patronaje básico e interpretación de diseños
                 p.mb-0 Conozca y maneje las diferentes simbologías, que facilitan los procesos técnicos de patronaje y corte en el siguiente documento:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(href="https://sena4.sharepoint.com/:b:/r/sites/VirtualizacionRED/Documentos%20compartidos/2025/LP-Santander/COMPLEMENTARIAS/Adaptaci%C3%B3n%20a%20partir%20de%20Tituladas/Patronaje%20de%20prendas%20superiores%20Masculinas%20de%20Moda%20casual/1.%20FinalxVirtualizar/Contenidos/CF02/Formatos%20DI/ANEXOS%20CF2%20PRENDAS%20MASCULINAS/Manual_patronaje_basico_interpretacion_disenos.PDF?csf=1&web=1&e=GHHGzG" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
                   span Descargar
                     i.fas.fa-file-download.p-2
 
