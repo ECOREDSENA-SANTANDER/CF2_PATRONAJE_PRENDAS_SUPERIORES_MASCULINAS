@@ -353,7 +353,7 @@
                 h4.mb-1 Manual de patronaje básico e interpretación de diseños
                 p.mb-0 Conozca y maneje las diferentes simbologías, que facilitan los procesos técnicos de patronaje y corte en el siguiente documento:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download.p-2
 

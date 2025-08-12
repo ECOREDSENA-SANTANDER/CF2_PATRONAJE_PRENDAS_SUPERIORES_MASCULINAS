@@ -201,7 +201,7 @@
                 p.mb-1 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
                
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank")
                   span Descargar
                     i.fas.fa-file-download.p-2
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
@@ -307,7 +307,7 @@
                   h4.mb-1 Manual de patronaje básico e interpretación de diseños
                   p.mb-0 Pasos detallados para realizar patrón camisa clásica, páginas 66 y 67.
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo2.pdf')" target="_blank")
                     span Descargar
                       i.fas.fa-file-download.p-2
       .col.lg-6
