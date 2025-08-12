@@ -223,9 +223,9 @@
                 h4.mb-1 Pasos para definir el patronaje 
                 p.mb-0 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/1_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
                   span Descargar
-                    i.fas.fa-file-download.p-2
+                  i.fas.fa-file-download.p-2
 
       AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")
         .row.justify-content-center(titulo="Metodología – manual de patronaje SENA")
@@ -353,9 +353,9 @@
                 h4.mb-1 Manual de patronaje básico e interpretación de diseños
                 p.mb-0 Conozca y maneje las diferentes simbologías, que facilitan los procesos técnicos de patronaje y corte en el siguiente documento:
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/2_Anexo.pdf')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo1.pdf')" target="_blank")
                   span Descargar
-                    i.fas.fa-file-download.p-2
+                  i.fas.fa-file-download.p-2
 
 
 
