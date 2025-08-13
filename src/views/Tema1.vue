@@ -21,13 +21,14 @@
             span Plano en 3D
           figure
             img(src='@/assets/curso/Tema1/figura1.png', alt='Cubo en dos enfoques. El primero indica su forma tridimensional usando líneas continuas y segmentadas. El segundo lo ubica dentro de un sistema de coordenadas con tres ejes: X (horizontal), Y (vertical) y Z (profundidad), facilitando su comprensión espacial.')
+          figcaption Fuente: SENA, (2021)
         .col-lg-6.col-md-8.mb-4
           .titulo-sexto.color-acento-contenido(data-aos='fade-right')
             h5 Figura 2.
             span Plano en 2D
           figure
             img(src='@/assets/curso/Tema1/figura2.svg', alt='Desarrollo del plano de un cubo. Se compone de seis cuadrados unidos entre sí formando una cruz, con pestañas en algunos bordes. Estas pestañas indican zonas de unión al armar la figura tridimensional.')
-
+          figcaption Fuente: SENA, (2021)
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
           .d-flex.align-items-center.mt-4
