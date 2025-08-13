@@ -95,7 +95,7 @@ export default {
         {
           id: 3,
           texto:
-            '¿Cómo se caracteriza el moulage en el patronaje sobre medidas?',
+            '¿Cómo se caracteriza el <i>moulage</i> en el patronaje sobre medidas?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

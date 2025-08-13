@@ -197,7 +197,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h5.mb-0 Manual de patronaje básico e interpretación de diseños. Esquema del patrón base masculino clásico y #[em slim fit], página 65 a 67.
+                h5.mb-0 Manual de patronaje básico e interpretación de diseños. Esquema del patrón base masculino clásico y #[em slim fit], página 65 a 68.
                 p.mb-1 Para ampliar y profundizar en los contenidos abordados, se recomienda consultar el siguiente documento:
                
               .col-sm-auto
