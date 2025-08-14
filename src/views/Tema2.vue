@@ -157,8 +157,8 @@
           span Base de superior masculina
       .col-lg-8.mb-4 
         figure
-          img(src='@/assets/curso/Tema2/figura5_.svg', alt='Esquema técnico de un patrón base masculino para prenda superior, dividido en dos mitades: centro frente (CF) y centro atrás (CA). Se visualizan líneas de referencia, medidas proporcionales y curvas guía para hombros, sisa y cuello, acompañadas de símbolos geométricos (triángulos y flechas) que indican puntos de control y piquetes. El trazo incluye proporciones matemáticas y márgenes mínimos en milímetros, con líneas punteadas para la ubicación de pinzas.')
-
+          img.mb-3(src='@/assets/curso/Tema2/figura5_.svg', alt='Esquema técnico de un patrón base masculino para prenda superior, dividido en dos mitades: centro frente (CF) y centro atrás (CA). Se visualizan líneas de referencia, medidas proporcionales y curvas guía para hombros, sisa y cuello, acompañadas de símbolos geométricos (triángulos y flechas) que indican puntos de control y piquetes. El trazo incluye proporciones matemáticas y márgenes mínimos en milímetros, con líneas punteadas para la ubicación de pinzas.')
+        figcaption Fuente: SENA, (2011)
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center.mt-4
@@ -187,8 +187,8 @@
           span  Base masculino #[em slim fit]
       .col-lg-8.mb-4 
         figure
-          img(src='@/assets/curso/Tema2/figura6.svg', alt='Trazo técnico de un patrón base masculino para prenda superior, dividido en centro frente (CF) y centro atrás (CA). Incluye curvas del escote, sisa y hombros, además de líneas rectas para costados y pinzas. Se exponen medidas proporcionadas con fórmulas, marcas de control y piquetes triangulares para el montaje. Las líneas punteadas y arcos sirven de guía para la construcción precisa del molde.')
-
+          img.mb-3(src='@/assets/curso/Tema2/figura6.svg', alt='Trazo técnico de un patrón base masculino para prenda superior, dividido en centro frente (CF) y centro atrás (CA). Incluye curvas del escote, sisa y hombros, además de líneas rectas para costados y pinzas. Se exponen medidas proporcionadas con fórmulas, marcas de control y piquetes triangulares para el montaje. Las líneas punteadas y arcos sirven de guía para la construcción precisa del molde.')
+        figcaption Fuente: SENA, (2011)
 
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
         .row.justify-content-around.align-items-center.p-3
@@ -274,8 +274,8 @@
           span  Camisa clásica
       .col-lg-8.mb-4 
         figure
-          img(src='@/assets/curso/Tema2/figura8.svg', alt='Patrón base de una camisa masculina clásica, con las piezas de delantero, espalda, cuello y puño. Se observan líneas de costura, doblez y ubicación de botones, así como detalles del bolsillo delantero. Flechas indican la dirección del hilo y símbolos marcan los puntos clave para ensamblaje. Las medidas y anotaciones guían el trazo técnico para un armado preciso.')
-
+          img.mb-3(src='@/assets/curso/Tema2/figura8.svg', alt='Patrón base de una camisa masculina clásica, con las piezas de delantero, espalda, cuello y puño. Se observan líneas de costura, doblez y ubicación de botones, así como detalles del bolsillo delantero. Flechas indican la dirección del hilo y símbolos marcan los puntos clave para ensamblaje. Las medidas y anotaciones guían el trazo técnico para un armado preciso.')
+        figcaption Fuente: SENA, (2011)
     .row.justify-content-center.align-items-center.mb-4
         .col-lg-12
           .bg6.mb-0
@@ -349,8 +349,8 @@
           span  Trazo base manga clásica
       .col-lg-8.mb-4
         figure
-          img(src='@/assets/curso/Tema2/figura9.svg', alt='Trazo técnico de la manga básica masculina para camisa, incluyendo detalles del puño y la tapeta. Se aprecian las curvas de sisa delantera y trasera, líneas guías verticales, flechas que indican la dirección del hilo, y símbolos de piquetes para un ensamblaje preciso. También se indican medidas de largo y contorno, junto con referencias para la colocación de aberturas y puño.')
-
+          img.mb-3(src='@/assets/curso/Tema2/figura9.svg', alt='Trazo técnico de la manga básica masculina para camisa, incluyendo detalles del puño y la tapeta. Se aprecian las curvas de sisa delantera y trasera, líneas guías verticales, flechas que indican la dirección del hilo, y símbolos de piquetes para un ensamblaje preciso. También se indican medidas de largo y contorno, junto con referencias para la colocación de aberturas y puño.')
+        figcaption Fuente: SENA, (2011)
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         .d-flex.align-items-center.mt-4
@@ -503,8 +503,8 @@
           span  Transformación de base a camisa #[em slim fit]
       .col-lg-6.mb-4
         figure
-          img(src='@/assets/curso/Tema2/figura10.svg', alt='Describe la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo. ')
-
+          img.mb-3(src='@/assets/curso/Tema2/figura10.svg', alt='Describe la transformación del patrón base hacia una camisa slim fit masculina. Se presentan las piezas delanteras y traseras con modificaciones en las líneas de entalle, pinzas en cintura, ajustes en la sisa y en los hombros, así como el desarrollo del cuello camisero y la tapeta frontal para botones. El trazo incluye referencias de medidas, ejes de simetría y puntos clave para la construcción de una prenda ajustada al cuerpo. ')
+        figcaption Fuente: SENA, (2011)
     p.mb-4 A continuación, se detallan los pasos para el trazo:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -575,8 +575,8 @@
           span  Trazo del plano de la manga #[em slim fit]
       .col-lg-6.mb-4
         figure
-          img(src='@/assets/curso/Tema2/figura11.svg', alt='Patrón técnico de la manga básica masculina para camisa, incluyendo la pieza de tapeta. Se detallan las curvas de sisa delantera y trasera con medidas específicas, líneas de centro y flechas que indican la dirección del hilo. También se detallan marcas para la abertura del puño, piquetes de montaje y proporciones para asegurar un ensamblaje preciso y simétrico.')      
-      
+          img.mb-3(src='@/assets/curso/Tema2/figura11.svg', alt='Patrón técnico de la manga básica masculina para camisa, incluyendo la pieza de tapeta. Se detallan las curvas de sisa delantera y trasera con medidas específicas, líneas de centro y flechas que indican la dirección del hilo. También se detallan marcas para la abertura del puño, piquetes de montaje y proporciones para asegurar un ensamblaje preciso y simétrico.')      
+        figcaption Fuente: SENA, (2011)
     .tarjeta.color-primario.p-3(data-aos="fade").mb-4
         .row.justify-content-around.align-items-center.p-3
           .col-3.col-sm-2.col-lg-1
